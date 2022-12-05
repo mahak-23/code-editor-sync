@@ -12,15 +12,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![e](https://user-images.githubusercontent.com/107416996/205561104-21fb8165-428c-4307-8573-69b14856088d.png)
 
-after 2nd user joined
+## after 2nd user joined
 
 .![f](https://user-images.githubusercontent.com/107416996/205560651-7a324677-c295-47a1-9ed5-60de5c1ddb1a.png)
 
-any user can edit code
+## any user can edit code
 
 ![g](https://user-images.githubusercontent.com/107416996/205560657-0df4ae28-97a7-4a9c-803d-77110c0619a9.PNG)
 
-after 2nd user leave
+## after 2nd user leave
 ![h](https://user-images.githubusercontent.com/107416996/205560664-c8a816b3-6a4d-4146-be58-0ae22306bc23.PNG)
 
 ## Available Scripts
