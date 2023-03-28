@@ -1,7 +1,13 @@
 # Getting Started with Create React App
 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
+-  It is used by user to create a digital room. 
+-  Users can join the room and edit the code or text in sametime. 
+-  Users can add more than one user in same time. 
+-  It is helpful for users to discuss and debugging codes with the help of other users
 
 ## Home Page
 ![a](https://user-images.githubusercontent.com/107416996/205561065-1756ff90-644b-4091-a5e1-544682e8309c.png)
