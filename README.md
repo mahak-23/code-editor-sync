@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+# Getting Started with Code Sync Editor
 
 -  It is used by user to create a digital room. 
 -  Users can join the room and edit the code or text in sametime. 
