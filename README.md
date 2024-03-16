@@ -1,9 +1,29 @@
 # Getting Started with Code Sync Editor
 
--  It is used by user to create a digital room. 
--  Users can join the room and edit the code or text in sametime. 
--  Users can add more than one user in same time. 
--  It is helpful for users to discuss and debugging codes with the help of other users
+Code Sync Editor is a collaborative editing tool that allows multiple users to join a digital room and edit code or text simultaneously. It enables users to collaborate, discuss, and debug code in real-time, making it an invaluable tool for team projects and pair programming sessions.
+
+## Features
+
+- **Real-Time Collaboration:** Users can join a digital room and edit code or text together in real-time.
+  
+- **Multi-User Support:** Code Sync Editor supports multiple users, allowing teams to work together seamlessly.
+
+- **Discussion and Debugging:** Users can discuss and debug code with the help of other users in the same room, improving productivity and efficiency.
+
+- **Built with React.js:** Code Sync Editor is developed using React.js, providing a modern and responsive user interface.
+
+## Technologies Used
+
+- **React.js:** Frontend framework for building the user interface.
+- **Express:** Backend framework for handling HTTP requests and WebSocket connections.
+- **Socket.IO:** Library for enabling real-time, bidirectional communication between web clients and servers.
+- **HTML/CSS:** Used for styling and layout of the editor interface.
+
+## Usage
+- Visit the URL provided by the development server or deploy the application to a production server.
+- Create a new digital room or join an existing room by entering the room ID.
+- Enter your roomId and click "Join" to join the room.
+- Start editing code or text in the editor. Your changes will be synchronized with other users in real-time.
 
 ## Home Page
 ![a](https://user-images.githubusercontent.com/107416996/205561065-1756ff90-644b-4091-a5e1-544682e8309c.png)
